@@ -18,4 +18,7 @@ Try these collaboration tools by Scaled Agile:
 * [Planning Wall](https://collaborate.scaledagile.com/template/try?id=FPZJ33AZ2FGOIHOLZSNCNZHG2U24CN1K)
 * [Buy a Feature](https://collaborate.scaledagile.com/template/try?id=O35E2RMDADPOQXINB2H34LVKOTM2QCW1)
 
+<img width="800" src="https://user-images.githubusercontent.com/70295997/217441689-ce8a9f85-335f-44a0-9645-1151378c1823.png">
+
+
 ...
