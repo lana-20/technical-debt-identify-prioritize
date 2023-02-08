@@ -30,7 +30,8 @@ Try these collaboration tools by Scaled Agile:
 
 <img width="800" src="https://user-images.githubusercontent.com/70295997/217466209-b1e88cfe-2fd1-4a94-8754-4a74ac2a67fc.png">
 
-<img width="800" src="https://user-images.githubusercontent.com/70295997/217466894-0088ccad-2411-426a-9912-280b3d0e5fc3.png">
+<img width="800" src="https://user-images.githubusercontent.com/70295997/217468361-d3c598f0-d379-48d1-b324-971c3bd61a99.png">
+
 
 
 ... ⬇️ Under Construction ⬇️ ...
